@@ -2,16 +2,16 @@
 ToDo App
 [Preview](https://priti0308.github.io/LGMVIP-Task-1-ToDo-Web-App/)
 
-**Description**
+**Description:**
 This is a simple ToDo application developed as an educational project for learning HTML, CSS, and JavaScript. The application allows users to add tasks, view the date and time when the task was added, and remove tasks from the list.
 
-**Features**
+**Features:**
 Add new tasks with date and time of addition
 View the list of tasks
 Remove tasks from the list
 Responsive design for various devices
 
-**How to Use**
+**How to Use:**
 Clone the repository: You can clone this repository using the following command in your terminal or command prompt:
 git clone https://priti0308.github.io/LGMVIP-Task-1-ToDo-Web-App/
 
