@@ -1,8 +1,6 @@
 # LGMVIP-Task-1-ToDo-App
-This is a simple ToDo web app using HTML, CSS &amp; JS. To see the website visit https://todowebapp.com
 ToDo App
-https://mahesh-langote.github.io/TO-DO-Using-HTML-CSS-Js/
-
+Preview(https://priti0308.github.io/LGMVIP-Task-1-ToDo-Web-App/)
 **Description**
 This is a simple ToDo application developed as an educational project for learning HTML, CSS, and JavaScript. The application allows users to add tasks, view the date and time when the task was added, and remove tasks from the list.
 
@@ -14,7 +12,7 @@ Responsive design for various devices
 
 **How to Use**
 Clone the repository: You can clone this repository using the following command in your terminal or command prompt:
-git clone https://github.com/Mahesh-Langote/TO-DO-Using-HTML-CSS-Js
+git clone https://priti0308.github.io/LGMVIP-Task-1-ToDo-Web-App/
 
 Open index.html file: After cloning the repository, navigate to the todo-app directory and open the index.html file in your web browser.
 
