@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <img src="img/girl.png.png" alt="" width="150px" ;height="150px">
+        <h1>Learn with Priti To Do List </h1>
+        <div id="todo-wrap" style="text-align: center; margin-top: 10vh;">
+            <h1 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">To Do List </h1>
+            <h3 style="font-family: cursive;">Task</h3>
+
+            <form id="todo-add">
+                <input type="text" id="todo-item" placeholder="New Item" required>
+                <input type="submit" id="todo-save" value="&#10010;">
+            </form>
+
+            <div id="todo-list"></div>
+            <template id="todo-template">
+      <div class="todo-row">
+        <input type="button" class="todo-del" value="&#10006;">
+        <input type="button" class="todo-edit" value="&#9998;">
+        <input type="text" class="todo-item" disabled>
+        <input type="button" class="todo-done" value="&#10004;">
+       </div>
+            </template>
+        </div>
+
+    </div>
+    <script src="todo.js"></script>
+</body><br><br>
+<footer style="text-align: center;">All rights reserved by Priti E-mail: pritikadam2325@gmail.com</footer>
+
+</html>
